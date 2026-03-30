@@ -1,0 +1,2 @@
+# Power-BI-SQL-Microsoft-Server-management-Studio-Project.-End-to-End-Marketing-Analytics-Dashboard
+Marketing Analytics Dashboard project built using SQL, Python, and Power BI to analyze customer journeys, campaign engagement, conversion rates, and sentiment-driven customer reviews. Features interactive KPI dashboards, data modeling, DAX measures, and detailed business insights for marketing performance optimization.
